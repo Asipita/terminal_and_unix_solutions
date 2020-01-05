@@ -34,11 +34,11 @@
 - How do you move your cursor to the beginning in terminal?  `control + a`
 How do you delete a word (without pressing backspace multiple times) in -terminal? `option + delete`
 
-- What is the difference between a terminal and shell? **The terminal is a  program is just an interface to the shell. The shell is what actually handles commands and so forth; the terminal program just gives it a way to interact with the environment.**
+- What is the difference between a terminal and shell? **The terminal is a  program which serves as an interface to the shell. The shell is what actually handles commands and so forth; the terminal program just gives it a way to interact with the environment.**
 
 - What is an absolute path? **An absolute path is a path that starts from the root route and gives the complete location for a file or folder**
 
-- What is an relative path? **A relative path is a path that starts at the current location and not the root route**
+- What is a relative path? **A relative path is a path that starts at the current location and not the root route**
 
 - What is a flag? Give three examples of flags you have used. **A flag adds additional functionality to an existing command, we have seen `-a` and `-l` for the `ls` command and `-r` for the `cp` and `rm` commands**
 
